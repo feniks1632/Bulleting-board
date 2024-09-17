@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class MainConfig(AppConfig):
-    name = 'Доска объявлений'
+    name = 'main'
     verbose_name = 'Доска объявлений'
